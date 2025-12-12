@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ASAH/SML_Submission/SMSML_Zalfa/Membangun_model/mlruns/710007014369907264/6f5e10bc0ce54a0d900e4def94dca4a5/artifacts
+end_time: 1765533211906
+entry_point_name: ''
+experiment_id: '710007014369907264'
+lifecycle_stage: active
+run_id: 6f5e10bc0ce54a0d900e4def94dca4a5
+run_name: rebellious-robin-900
+run_uuid: 6f5e10bc0ce54a0d900e4def94dca4a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765533201669
+status: 3
+tags: []
+user_id: ASUS

@@ -1,0 +1,6 @@
+artifact_location: file:///D:/ASAH/SML_Submission/SMSML_Zalfa/Membangun_model/mlruns/710007014369907264
+creation_time: 1765533201397
+experiment_id: '710007014369907264'
+last_update_time: 1765533201397
+lifecycle_stage: active
+name: titanic_rf_tuning

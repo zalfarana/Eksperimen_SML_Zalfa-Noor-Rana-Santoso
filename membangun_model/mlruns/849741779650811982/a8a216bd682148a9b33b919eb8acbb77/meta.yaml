@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/849741779650811982/a8a216bd682148a9b33b919eb8acbb77/artifacts
+end_time: 1765532963559
+entry_point_name: ''
+experiment_id: '849741779650811982'
+lifecycle_stage: active
+run_id: a8a216bd682148a9b33b919eb8acbb77
+run_name: defiant-cat-405
+run_uuid: a8a216bd682148a9b33b919eb8acbb77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765532957119
+status: 3
+tags: []
+user_id: ASUS
