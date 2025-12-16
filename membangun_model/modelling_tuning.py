@@ -12,12 +12,12 @@ import joblib
 import os
 
 dagshub.init(
-    repo_owner="zzalfa302",
+    repo_owner="zalfarana",
     repo_name="Eksperimen_SML_Zalfa-Noor-Rana-Santoso",
     mlflow=True
 )
 
-mlflow.set_tracking_uri("https://dagshub.com/zzalfa302/Eksperimen_SML_Zalfa-Noor-Rana-Santoso.mlflow")
+mlflow.set_tracking_uri("https://dagshub.com/zalfarana/Eksperimen_SML_Zalfa-Noor-Rana-Santoso.mlflow")
 mlflow.set_experiment("titanic_experiment_zalfa_advanced")
 
 def load_data(path):
